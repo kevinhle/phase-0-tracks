@@ -4,7 +4,7 @@
 
 * What is version control?  Why is it useful?
 
-Version control allows us to view the entire history of revisions to one or more files and merge revisions made by different people. Developers use version control to work on projects with one another, being able to work and make changes on a project .
+Version control allows us to view the entire history of revisions to one or more files and merge revisions made by different people. Developers use version control to work on projects with one another, being able to work and make changes on a project.
 
 * What is a branch and why would you use one?
 
@@ -16,4 +16,4 @@ A Commit is a save point in Git. The best practices for commit messages would be
 
 * What is a merge conflict?
 
-For example a merge conflict happens when 2 people are working together on a prjoct and are unable to merge the 2 feature branches to the master branch. 
+For example a merge conflict happens when 2 people are working together on the same repository and made changes on the same line, that's usually when a merge conflict occurs. To resolve this you would run git status and it would tell you more more about the conflict in order for you to fix the problem.
