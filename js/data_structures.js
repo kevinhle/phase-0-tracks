@@ -42,5 +42,3 @@ function Car(color, model, year) {
    console.log("The " + key + " has this value "+ newcar2[key]);
 
  }
-Status API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Contact Helptu
